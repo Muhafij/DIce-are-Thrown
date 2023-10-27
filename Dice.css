@@ -1,0 +1,11 @@
+*{
+    background-color: rgb(94, 54, 94);
+}
+
+
+.div1{
+    display: inline-block;
+    margin: 10pc;
+    padding: auto;
+    align-items: center;
+}
